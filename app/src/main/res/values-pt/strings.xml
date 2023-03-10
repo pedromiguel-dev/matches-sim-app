@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">simulador</string>
+    <string name="randonmize_matches">Randomizar partidas</string>
 </resources>
