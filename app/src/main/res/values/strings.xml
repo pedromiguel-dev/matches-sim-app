@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">simulator</string>
     <string name="randonmize_matches">Randonmize matches</string>
+    <string name="home_team_image">Home team image</string>
+    <string name="away_time_image">Away time image</string>
+    <string name="txt_versus" translatable="false">X</string>
 </resources>
